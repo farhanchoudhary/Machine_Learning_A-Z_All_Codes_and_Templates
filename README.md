@@ -4,6 +4,6 @@ This repository contains all the codes and datasets for [Machine Learning A-Z co
 
 ## Course Structure
 
-- 1. *Data Preprocessing and Classification*
+1. *Data Preprocessing and Classification*
 
-- 2. *Simple Linear Regression*
+2. *Simple Linear Regression*
