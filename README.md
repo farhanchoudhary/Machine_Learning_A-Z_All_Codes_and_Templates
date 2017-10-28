@@ -7,3 +7,5 @@ This repository contains all the codes and datasets for [Machine Learning A-Z co
 1. *Data Preprocessing and Classification*
 
 2. *Simple Linear Regression*
+
+3. *Multiple Linear Regression*
