@@ -34,4 +34,4 @@ This repository contains all the codes and datasets for [Machine Learning A-Z Co
 
 5. *Classification* `(Contains Logistic Regression, Decision Trees, k-NN, Naive Bayes, Random Forest, SVC, SVM, Kernel-SVM)`
 
-6. *Clustering* 
+6. *Clustering* `(k-means and Heirarchical Clustering along with Elbow Representations)`
