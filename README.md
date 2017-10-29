@@ -11,3 +11,5 @@ This repository contains all the codes and datasets for [Machine Learning A-Z co
 3. *Multiple Linear Regression*
 
 4. *Polynomial Regression* (Contains Random Forest and SVR)
+
+5. *Classification* (Contains Logistic Regression, Decision Trees, k-NN, Naive Bayes, Random Forest, SVC, SVM, Kernal-SVM)
