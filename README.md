@@ -19,7 +19,7 @@ This repository contains all the codes and datasets for [Machine Learning A-Z Co
 | Naive-Bayes Classifier | Careful during the call of `naiveBayes` function for x & y values | Ease of use | **Python** |
 | Decision Trees | Helpful with the `plot` and `text` function for classifier object | Intuitive | **R** |
 | Random Forest Classifier | Careful during the call of `randomForest` function for x & y values | Ease of use with `RandomForestClassifier` | **Python** |
-| Clustering | k-means is built-in in R and Heirarchical Clustering is easier  | Better for visualization| **R** |
+| Clustering | k-means is built-in in R and Hierarchical Clustering is easier  | Better for visualization| **R** |
 
 
 ## Course Structure
@@ -34,4 +34,4 @@ This repository contains all the codes and datasets for [Machine Learning A-Z Co
 
 5. *Classification* `(Contains Logistic Regression, Decision Trees, k-NN, Naive Bayes, Random Forest, SVC, SVM, Kernel-SVM)`
 
-6. *Clustering* `(k-means and Heirarchical Clustering along with Elbow Representations)`
+6. *Clustering* `(k-means and Hierarchical Clustering along with Elbow Representations)`
