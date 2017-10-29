@@ -5,7 +5,7 @@ This repository contains all the codes and datasets for [Machine Learning A-Z Co
 ## Verdict for using R & Python for the tasks
 
 | Objective             | R                            |                     Python             | Verdict |
-| ----------            |-----------------            |---------------------             |------------|
+| :----------:            |-----------------            |---------------------             |:------------:|
 |Data Preprocessing     |Requires fewer packages      | Easy to impute missing values and splitting into training and test sets, has `LabelEncoder` and `OneHotEncoder` | **Python**|
 |Linear Regression | Can be done in a single line  | Requires multiple lines to code| **R**
 |Polynomial Regression | Unless you use the `poly` function the process is cumbersome | Easier to define degrees with `PolynomialFeatures` from  `sklearn.preprocessing` | **Python**|
@@ -30,6 +30,8 @@ This repository contains all the codes and datasets for [Machine Learning A-Z Co
 
 3. *Multiple Linear Regression*
 
-4. *Polynomial Regression* '(Contains Random Forest and SVR)'
+4. *Polynomial Regression* `(Contains Random Forest and SVR)`
 
-5. *Classification* '(Contains Logistic Regression, Decision Trees, k-NN, Naive Bayes, Random Forest, SVC, SVM, Kernel-SVM)'
+5. *Classification* `(Contains Logistic Regression, Decision Trees, k-NN, Naive Bayes, Random Forest, SVC, SVM, Kernel-SVM)`
+
+6. *Clustering* 
