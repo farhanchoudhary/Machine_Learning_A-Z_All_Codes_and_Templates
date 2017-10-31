@@ -5,7 +5,7 @@ This repository contains all the codes and datasets for [Machine Learning A-Z Co
 ## Verdict for using R & Python for the tasks
 
 | Objective             | R                            |                     Python             | Verdict |
-| :----------:            |-----------------            |---------------------             |:------------:|
+| :----------:            |---------------------          |-------------------             |:------------:|
 |Data Preprocessing     |Requires fewer packages      | Easy to impute missing values and splitting into training and test sets, has `LabelEncoder` and `OneHotEncoder` | **Python**|
 |Linear Regression | Can be done in a single line  | Requires multiple lines to code| **R**
 |Polynomial Regression | Unless you use the `poly` function the process is cumbersome | Easier to define degrees with `PolynomialFeatures` from  `sklearn.preprocessing` | **Python**|
@@ -20,6 +20,7 @@ This repository contains all the codes and datasets for [Machine Learning A-Z Co
 | Decision Trees | Helpful with the `plot` and `text` function for classifier object | Intuitive | **R** |
 | Random Forest Classifier | Careful during the call of `randomForest` function for x & y values | Ease of use with `RandomForestClassifier` | **Python** |
 | Clustering | k-means is built-in in R and Hierarchical Clustering is easier  | Better for visualization| **R** |
+| Association Rule Learning | Extremely easy and intuitive with built in functions for both Apriori & Eclat using the `arules` library | Apriori is still intuitive but Eclat is a lenghty algorithm and complicated | **R**|
 
 
 ## Course Structure
@@ -35,3 +36,5 @@ This repository contains all the codes and datasets for [Machine Learning A-Z Co
 5. *Classification* `(Contains Logistic Regression, Decision Trees, k-NN, Naive Bayes, Random Forest, SVC, SVM, Kernel-SVM)`
 
 6. *Clustering* `(k-means and Hierarchical Clustering along with Elbow Representations)`
+
+7. *Association Rule Learning* `(using Apriori and Elclat Algorithms)`
