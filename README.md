@@ -42,4 +42,4 @@ This repository contains all the codes and datasets for [Machine Learning A-Z Co
 
 8. *Reinforcement Learning* `(using UCB and Thompson Sampling)`
 
-9. *Natural Language Processing* `(using nltk in Python and tm in R)
+9. *Natural Language Processing* `(using nltk in Python and tm in R)`
