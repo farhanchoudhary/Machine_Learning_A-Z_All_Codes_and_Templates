@@ -21,6 +21,7 @@ This repository contains all the codes and datasets for [Machine Learning A-Z Co
 | Random Forest Classifier | Careful during the call of `randomForest` function for x & y values | Ease of use with `RandomForestClassifier` | **Python** |
 | Clustering | k-means is built-in in R and Hierarchical Clustering is easier  | Better for visualization| **R** |
 | Association Rule Learning | Extremely easy and intuitive with built in functions for both Apriori & Eclat using the `arules` library | Apriori is still intuitive but Eclat is a lenghty algorithm and complicated | **R**|
+| Reinforcement Learning using UCB & Thompson Sampling | Complex algorithm and lenghty | Relatively easier to implement | **Python** |
 
 
 ## Course Structure
@@ -38,3 +39,5 @@ This repository contains all the codes and datasets for [Machine Learning A-Z Co
 6. *Clustering* `(k-means and Hierarchical Clustering along with Elbow Representations)`
 
 7. *Association Rule Learning* `(using Apriori and Elclat Algorithms)`
+
+8. *Reinforcement Learning* `(using UCB and Thompson Sampling)`
