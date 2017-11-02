@@ -22,7 +22,7 @@ This repository contains all the codes and datasets for [Machine Learning A-Z Co
 | Clustering | k-means is built-in in R and Hierarchical Clustering is easier  | Better for visualization| **R** |
 | Association Rule Learning | Extremely easy and intuitive with built in functions for both Apriori & Eclat using the `arules` library | Apriori is still intuitive but Eclat is a lenghty algorithm and complicated | **R**|
 | Reinforcement Learning using UCB & Thompson Sampling | Complex algorithm and lenghty | Relatively easier to implement | **Python** |
-
+|Natural Language Processing | Extremely easy and short procedure with tm | Fairly intuitive | **R**|
 
 ## Course Structure
 
@@ -41,3 +41,5 @@ This repository contains all the codes and datasets for [Machine Learning A-Z Co
 7. *Association Rule Learning* `(using Apriori and Elclat Algorithms)`
 
 8. *Reinforcement Learning* `(using UCB and Thompson Sampling)`
+
+9. *Natural Language Processing* `(using nltk in Python and tm in R)
