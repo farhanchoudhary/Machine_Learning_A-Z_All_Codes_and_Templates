@@ -23,7 +23,7 @@ This repository contains all the codes and datasets for [Machine Learning A-Z Co
 | Association Rule Learning | Extremely easy and intuitive with built in functions for both Apriori & Eclat using the `arules` library | Apriori is still intuitive but Eclat is a lenghty algorithm and complicated | **R**|
 | Reinforcement Learning using UCB & Thompson Sampling | Complex algorithm and lenghty | Relatively easier to implement | **Python** |
 |Natural Language Processing | Extremely easy and short procedure with `tm` | Fairly intuitive | **R**|
-| Artificial Neural Networks | Fast process as it makes use of all the cores available. Computational difference through external server is phenomenal through `h20` | Takes time to process hidden layers | **R**|
+| Artificial Neural Networks | Fast process as it makes use of all the cores available. Computational difference through external server is phenomenal through `h2o` | Takes time to process hidden layers | **R**|
 | Convlutional Neural Networks | `DeepWater` thorugh `h2o` is in beta stage | Step by step process | **Python**|
 
 ## Course Structure
