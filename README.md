@@ -25,7 +25,8 @@ This repository contains all the codes and datasets for [Machine Learning A-Z Co
 |Natural Language Processing | Extremely easy and short procedure with `tm` | Fairly intuitive | **R**|
 | Artificial Neural Networks | Fast process as it makes use of all the cores available. Computational difference through external server is phenomenal through `h2o` | Takes time to process hidden layers | **R**|
 | Convlutional Neural Networks | `DeepWater` thorugh `h2o` is in beta stage | Step by step process | **Python**|
-| Dimensionality Reduction | Long process, `caret` library is tricky to operate with | In-built libraries make the work far more simpler | **Python**
+| Dimensionality Reduction | Long process, `caret` library is tricky to operate with | In-built libraries make the work far more simpler | **Python**| 
+| Model Selection and Boosting | Code is complicated and reqiures multiple functions | Relatively easier with built in functions from `cross_val_score` | **Python**
 
 ## Course Structure
 
@@ -50,3 +51,7 @@ This repository contains all the codes and datasets for [Machine Learning A-Z Co
 10. *Neural Networks* `(through ANN and CNN - Note, CNN through DeepWater is in beta stage and has not been implemented in R)`
 
 11. *Dimensionality Reduction* `(using Principal Component Analysis, Linear Discriminant Analysis & Kernel PCA)`
+
+12. *Model Selection and Boosting* 
+
+*Annex. 1* `Containg various templates for Regression, Plotting, Classification, Cross Validation and Plotting along with PDFs from the lecture`
